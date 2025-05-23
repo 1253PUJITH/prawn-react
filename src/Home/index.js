@@ -12,7 +12,7 @@ class Home extends Component {
             <Navbar.Brand href="#home">
               <img
                 className="logo"
-                src="https://res.cloudinary.com/dpvrtbqxt/image/upload/v1739094393/DALL_E_2025-02-08_22.47.59_-_A_modern_and_minimalist_logo_of_a_shrimp_designed_with_sleek_curves_and_clean_lines._The_shrimp_is_stylized_with_a_smooth_flowing_body_a_curled_tai_plppur.webp"
+                src="https://res.cloudinary.com/dpvrtbqxt/image/upload/v1739094393/DALL_E_2025-02-08_22.47.59_-_A_modern_and_minimalist_logo_of_a_shrimp_designed_with_sleek_curves_and_clean_lines._The_shrimp_is_stylized_with_a_smooth_flowing_body_a_curled_tai_plppur.webp" alt=""
               />
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />

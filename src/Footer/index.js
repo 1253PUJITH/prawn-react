@@ -10,7 +10,7 @@ const Footer = () => {
         <Row>
           <Col xs={6} lg={5}>
             <div className="text text-center">
-              <img className="footer-image" src="https://res.cloudinary.com/dpvrtbqxt/image/upload/v1739094393/DALL_E_2025-02-08_22.47.59_-_A_modern_and_minimalist_logo_of_a_shrimp_designed_with_sleek_curves_and_clean_lines._The_shrimp_is_stylized_with_a_smooth_flowing_body_a_curled_tai_plppur.webp" alt="shrimp image"/>
+              <img className="footer-image" src="https://res.cloudinary.com/dpvrtbqxt/image/upload/v1739094393/DALL_E_2025-02-08_22.47.59_-_A_modern_and_minimalist_logo_of_a_shrimp_designed_with_sleek_curves_and_clean_lines._The_shrimp_is_stylized_with_a_smooth_flowing_body_a_curled_tai_plppur.webp" alt=""/>
               <h1 className="footer-heading font_style">Prawn Disease</h1>
               <p className="footer-sub-heading">Pablo Research</p>
             </div>
